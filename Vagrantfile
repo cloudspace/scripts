@@ -1,7 +1,7 @@
 domain_name = "scripts"
 vagrant_ip = "33.33.164.176"
 box_name = "scripts.box"
-box_path = "http://devops.cloudspace.com/images/scripts/"
+box_path = "http://devops.cloudspace.com/images/cs_pivotal_scripts/"
 cpus = 4
 memory = 4096
 
