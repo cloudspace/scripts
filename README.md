@@ -6,7 +6,7 @@ deploying the sample apps to cloudfoundry.
 
 ## Running Locally
 
-Pre-requisites: Maven (3) and Java (1.7). To run the
+Pre-requisites: Maven (3) and Java (1.8). To run the
 Customers UI you also need the Spring Boot CLI. Clone the repository
 and initialize submodules:
 
