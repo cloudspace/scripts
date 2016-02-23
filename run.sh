@@ -47,6 +47,8 @@ if [ -z $1 ]; then
 fi
 for f in $apps; do
     run_app $f
+    echo "Waiting 20s"
+    sleep 20
 done
 
 
