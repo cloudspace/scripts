@@ -17,3 +17,4 @@ bin
 .idea
 *.box
 /.vagrant
+*.log
